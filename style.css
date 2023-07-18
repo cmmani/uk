@@ -1,0 +1,12 @@
+		#mainheading
+		{
+			color: red;
+			border: 2px solid blue;
+ 			 padding: .5em;
+ 			 background-color: #9999ff;
+
+		}
+		.main
+		{
+			color: green;
+		}
